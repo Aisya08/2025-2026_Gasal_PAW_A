@@ -1,3 +1,0 @@
-<?php
-echo strpos("Hello World!","world");//outputs 6
-?>
